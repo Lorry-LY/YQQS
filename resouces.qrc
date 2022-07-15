@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/start0.jpg</file>
+        <file>resource/media/dungeonBGM.mp3</file>
+        <file>resource/media/getintoHouse.mp3</file>
+        <file>resource/image/character/magician.gif</file>
+        <file>resource/image/character/Magician0.png</file>
+        <file>resource/image/character/Magician1.png</file>
+        <file>resource/image/icon/Back.png</file>
+        <file>resource/image/icon/clock.png</file>
+        <file>resource/image/icon/gold.png</file>
+        <file>resource/image/icon/monster.png</file>
+        <file>resource/image/icon/Ranking.png</file>
+        <file>resource/image/icon/round.png</file>
+        <file>resource/image/windows/17148b173dbb3499.jpg</file>
+        <file>resource/image/windows/bac2.jpg</file>
+        <file>resource/image/windows/back1.jpeg</file>
+        <file>resource/image/windows/close.png</file>
+        <file>resource/image/windows/Login .png</file>
+        <file>resource/image/windows/LW.jpg</file>
+        <file>resource/image/windows/pause.png</file>
+        <file>resource/image/windows/rank.png</file>
+        <file>resource/image/windows/Reg.png</file>
+        <file>resource/image/windows/round.png</file>
+        <file>resource/image/windows/setting.png</file>
+        <file>resource/image/windows/startButton.png</file>
+        <file>resource/image/windows/stopIcon01.png</file>
+        <file>resource/image/windows/stopIcon02.png</file>
+        <file>resource/image/character/Knight/stop.png</file>
+        <file>resource/image/icon/MP.jpg</file>
+    </qresource>
+</RCC>
